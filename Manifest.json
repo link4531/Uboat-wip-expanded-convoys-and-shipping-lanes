@@ -1,0 +1,11 @@
+{
+  "name": "[WIP] Expanded Convoys and Shipping Lanes",
+  "version": "0.3.2b",
+  "description": "WIP: EXPECT BUGS AND UNINTENDED BEHAVIOR \r\nAdds an extensive list of convoys and merchant vessel shipping lanes. Currently I am only looking for feedback, or potential contributors to this mod. \r\n\r\n This mod requires the following mods: \r\nExpanded Ports Mod (shipping lanes an convoys incorporate ports not currently in base game) \r\n Saint-Nazaire Port mod (Required by Expanded Ports mod) \r\nMore Diverse Ship names (Due to additional country ports and shipping vessels, additional ship names are provided by this mod) \r\n\r\nFeatures:\r\nAdded Reserve Naval forces in Ports owned by Germany and other ports, which was missing. \r\nAdded Merchant Shipping lanes in North and South America (Complete)\r\nAdded Trans Atlantic Shipping lanes (Mostly Complete)\r\nAdded German Supply routes (Partially Complete)\r\n Additional Convoys (incomplete) \r\n activity periods for Shipping lanes and Convoys (on hold due to bug)\r\nA large number of additional country shipping vessels have been added, however they are currently missing Flag assets.Someone please Develop a flag mod :-)",
+  "author": "Link",
+  "minGameVersion": "",
+  "maxGameVersion": "125P18",
+  "assemblyName": null,
+  "permissions": [],
+  "steamFileId": 1959088935
+}
